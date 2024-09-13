@@ -45,7 +45,7 @@ public enum ResultCodeEnum {
     COUPON_EXPIRE( 250, "优惠券已过期"),
     COUPON_LESS( 250, "优惠券库存不足"),
     COUPON_USER_LIMIT( 250, "超出领取数量"),
-    ;
+    WX_CODE_ERROR(500, "微信小程序登录失败");
 
     private Integer code;
 
