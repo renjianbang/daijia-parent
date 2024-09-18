@@ -13,6 +13,15 @@
     <version>1.0</version>
 
     <dependencies>
+        <dependency>
+            <groupId>com.github.binarywang</groupId>
+            <artifactId>weixin-java-miniapp</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.atguigu.daijia</groupId>
+            <artifactId>common-util</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
